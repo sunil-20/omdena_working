@@ -1,2 +1,2 @@
 # omdena_working
-NLP project on onloine harrashment.
+NLP project on online harrashment classification.
